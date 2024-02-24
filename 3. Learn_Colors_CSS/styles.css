@@ -32,3 +32,9 @@ h1 {
 		hsl(240, 56%, 42%)
 	);
 }
+
+.sleeve {
+	width: 110px;
+	height: 25px;
+	background-color: white;
+}
